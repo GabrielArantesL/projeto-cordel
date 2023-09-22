@@ -81,6 +81,13 @@ p {
     font-family: 'Sriracha';
     font-size: 14mm;
     padding-left: 30px;
+    line-height: 2cm;
+    font-size: 5vh;
+}
+
+section > p {
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.385);
 }
 
 .container-poesia1 {
